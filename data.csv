@@ -1,0 +1,4 @@
+"id";"first_name";"last_name";"password";"email_address";"account_created";"account_updated"
+"213edd6c-e487-4633-9e72-2af125035a97";"Jane";"Doe";"$2b$10$OLO7Jj.hIqiYup1CFY/VfOdG21NpUQtMBdeW/CjSC4gSQZTB2s4Iu";"jane.doe@example.com";"2019-09-22 15:08:02";"2019-09-22 15:08:02"
+"525f3904-834a-4fe9-a768-01ec8ac56f4d";"ane";"Dcd";"$2b$10$rMPm4m/nXqlI1Oj1H/JoYurH52Qp8nzOqI5MzH0q7qyTrmoNJ28KK";"ja123@example.com";"2019-09-22 16:16:39";"2019-09-22 16:16:39"
+"e4524b24-a4f7-49db-8763-8c416b72bae9";"Jane";"Doe";"$2b$10$tQcks7iifkalNbvYxB2Q9uz04GICiDIlvK6AuO1NYsAp3iWn1uutW";"janee@example.com";"2019-09-22 15:14:25";"2019-09-22 15:14:25"
